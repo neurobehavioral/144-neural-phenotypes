@@ -19,7 +19,15 @@ Empirical validation, refinement, or falsification is explicitly deferred to fut
 - **The 144 Neural Phenotypes (PDF)** – complete reference edition
 
 ## Citation
-If referencing this work, please cite the repository version and commit hash to preserve version integrity.
+
+If referencing this work, please cite the repository and specific version as follows:
+
+Syed Hassan. *The 144 Neural Phenotypes: A Functional Neurobehavioral Taxonomy for Applied Cognitive and Behavioral Science*. 
+GitHub repository, version 1.0, 2025.
+Available at: https://github.com/neurobehavioral/144-neural-phenotypes
+
+For precise versioning, please include the commit hash associated with the referenced version.
+
 
 ---
 
